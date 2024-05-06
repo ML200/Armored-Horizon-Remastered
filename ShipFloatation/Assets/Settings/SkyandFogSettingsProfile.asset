@@ -491,10 +491,10 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0}
   bottomAltitude:
     m_OverrideState: 1
-    m_Value: 3000
+    m_Value: 1000
   altitudeRange:
     m_OverrideState: 1
-    m_Value: 1000
+    m_Value: 5000
   fadeInMode:
     m_OverrideState: 1
     m_Value: 0
@@ -526,7 +526,7 @@ MonoBehaviour:
     m_Value: 1
   m_CloudPreset:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 3
   cumulusMap:
     m_OverrideState: 1
     m_Value: {fileID: 0}
@@ -570,7 +570,7 @@ MonoBehaviour:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.05
+        time: 0.037
         value: 1
         inSlope: 0
         outSlope: 0
@@ -579,7 +579,7 @@ MonoBehaviour:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.75
+        time: 0.6
         value: 1
         inSlope: 0
         outSlope: 0
@@ -614,8 +614,35 @@ MonoBehaviour:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.1
-        value: 0.9
+        time: 0.05
+        value: 0.8
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.2438
+        value: 0.9498
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.93
+        value: 0.9268
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -649,8 +676,8 @@ MonoBehaviour:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.25
-        value: 0.5
+        time: 0.1
+        value: 0.4
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -680,10 +707,10 @@ MonoBehaviour:
     m_Value: 0.5
   densityMultiplier:
     m_OverrideState: 1
-    m_Value: 0.4
+    m_Value: 0.35
   shapeFactor:
     m_OverrideState: 1
-    m_Value: 0.925
+    m_Value: 0.825
   shapeScale:
     m_OverrideState: 1
     m_Value: 5
@@ -692,7 +719,7 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0}
   erosionFactor:
     m_OverrideState: 1
-    m_Value: 0.85
+    m_Value: 0.9
   erosionScale:
     m_OverrideState: 1
     m_Value: 75
@@ -704,7 +731,7 @@ MonoBehaviour:
     m_Value: 0
   microErosionFactor:
     m_OverrideState: 1
-    m_Value: 0.65
+    m_Value: 0.6
   microErosionScale:
     m_OverrideState: 1
     m_Value: 300
