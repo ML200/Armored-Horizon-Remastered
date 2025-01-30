@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 89703cb4ca6f87943acb1ac33492f2cf
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Effects/Hardpoints/Flash.mat
+  uploadId: 546842

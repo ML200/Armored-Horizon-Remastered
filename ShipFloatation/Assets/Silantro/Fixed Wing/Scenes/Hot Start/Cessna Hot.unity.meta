@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1dd07e906c5a3664fba6906ab8c7194f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scenes/Hot Start/Cessna Hot.unity
+  uploadId: 546842

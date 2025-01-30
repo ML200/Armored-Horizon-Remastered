@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 18663deecd4bc774b8701275c4f067ad
+timeCreated: 1563555584
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura BdCn BT
+  fontNames:
+  - Futura BdCn BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Fonts/Futura/Futura Bold font.ttf
+  uploadId: 546842

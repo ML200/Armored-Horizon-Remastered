@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0627bed5a05dadd44aaef849e83e39dc
+timeCreated: 1563555522
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Graphics/Resources/Needle Template.ai
+  uploadId: 546842

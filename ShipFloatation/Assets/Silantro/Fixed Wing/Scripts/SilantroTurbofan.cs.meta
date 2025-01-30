@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 428d0fcb55ae33145a71c0a236e6514b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scripts/SilantroTurbofan.cs
+  uploadId: 546842

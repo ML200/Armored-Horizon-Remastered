@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce586df2926d1c6449e3e9559ecd3b47
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/VR/Throttle.prefab
+  uploadId: 546842

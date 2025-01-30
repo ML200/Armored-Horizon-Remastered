@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c89cf564a2cee1944964e8a68e1bd0fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Lightmaps/Cessna First Person/LightingData.asset
+  uploadId: 546842

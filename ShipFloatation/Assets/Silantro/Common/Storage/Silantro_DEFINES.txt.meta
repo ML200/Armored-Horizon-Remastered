@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de9962760993e6141909f0dacbada5b9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Storage/Silantro_DEFINES.txt
+  uploadId: 546842

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 872766805f1208a4e9780084e2e7da5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Ground/Runway End.mat
+  uploadId: 546842

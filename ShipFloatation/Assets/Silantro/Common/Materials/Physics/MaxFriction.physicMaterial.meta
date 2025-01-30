@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 150f1f4bb7c7a47449e9b54928d6264c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Physics/MaxFriction.physicMaterial
+  uploadId: 546842

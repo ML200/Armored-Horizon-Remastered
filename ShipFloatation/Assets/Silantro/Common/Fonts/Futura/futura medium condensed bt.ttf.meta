@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 2050c86fe0ccbc944b35965f14d11dab
+timeCreated: 1563555584
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura MdCn BT
+  fontNames:
+  - Futura MdCn BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Fonts/Futura/futura medium condensed bt.ttf
+  uploadId: 546842

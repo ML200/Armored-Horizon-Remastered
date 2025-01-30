@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86a7b5dbe5fa73845aec90f4c98d2db5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scenes/Normal/Cessna Manual.unity
+  uploadId: 546842

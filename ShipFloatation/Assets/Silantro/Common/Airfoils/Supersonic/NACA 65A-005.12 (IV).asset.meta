@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee8e9d7fba092ac4ca9f0eefdff79f4a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Supersonic/NACA 65A-005.12 (IV).asset
+  uploadId: 546842

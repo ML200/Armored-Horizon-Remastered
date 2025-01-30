@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd8cd89e7b7e59f40bd258235e02471e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scripts/Editor/SilantroFixed.cs
+  uploadId: 546842

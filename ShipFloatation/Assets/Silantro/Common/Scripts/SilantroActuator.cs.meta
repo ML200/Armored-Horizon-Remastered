@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0baef63c7d50f1c49aa1c8e0e4704f5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Scripts/SilantroActuator.cs
+  uploadId: 546842

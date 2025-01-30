@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ef15e80dccd70d45a4e8e13818cc87b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/Cases/30x200mm NATO C.prefab
+  uploadId: 546842

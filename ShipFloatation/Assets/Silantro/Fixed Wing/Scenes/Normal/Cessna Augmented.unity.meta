@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b12c10a0ad40a2d4b90115e1fabc5b2a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scenes/Normal/Cessna Augmented.unity
+  uploadId: 546842

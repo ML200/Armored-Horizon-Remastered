@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 4304f45edc7d7fb4291d44c70b8851cb
+timeCreated: 1563555584
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura LtCn BT
+  fontNames:
+  - Futura LtCn BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Fonts/Futura/Futura Light font.ttf
+  uploadId: 546842

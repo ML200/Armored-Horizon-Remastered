@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1bd9e4cf877a4334e96b5885c32b3a67
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Physics/Ice.physicmaterial
+  uploadId: 546842

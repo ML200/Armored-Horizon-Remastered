@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 423dd9f4ccd1e144cbbe0052c092dfe8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Wing/NACA 64-015.asset
+  uploadId: 546842

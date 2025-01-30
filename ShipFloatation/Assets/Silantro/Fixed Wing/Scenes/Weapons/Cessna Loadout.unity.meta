@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b02830a1249072c47b4855d4cb21e556
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scenes/Weapons/Cessna Loadout.unity
+  uploadId: 546842

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14288e103c3235a46b8b9e5a1f1442be
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Effects/Explosions/Rocket Explosion.prefab
+  uploadId: 546842

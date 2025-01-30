@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b5c0a5b6ae5a824e9d9492108f9e6c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Lightmaps/Cessna Augmented/LightingData.asset
+  uploadId: 546842

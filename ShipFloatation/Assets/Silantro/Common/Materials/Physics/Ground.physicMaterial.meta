@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d5d344cf9dc8d146a76fdb0fb049867
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Physics/Ground.physicMaterial
+  uploadId: 546842

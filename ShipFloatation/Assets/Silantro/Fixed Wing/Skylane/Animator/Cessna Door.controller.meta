@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9de5fd87fd9cd644187497a4a561c521
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Skylane/Animator/Cessna Door.controller
+  uploadId: 546842

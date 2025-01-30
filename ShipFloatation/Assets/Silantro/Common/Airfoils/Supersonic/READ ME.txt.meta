@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67c2544d0c8e2a94285d4ec28884af1e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Supersonic/READ ME.txt
+  uploadId: 546842

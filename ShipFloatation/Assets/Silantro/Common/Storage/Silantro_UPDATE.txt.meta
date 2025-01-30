@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f059585dfa9c504eabbc8b54dd16255
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Storage/Silantro_UPDATE.txt
+  uploadId: 546842

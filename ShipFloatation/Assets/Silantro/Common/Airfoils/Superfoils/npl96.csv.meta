@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36ed7f5b1e8e0a945ad94292823cb8ee
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Superfoils/npl96.csv
+  uploadId: 546842

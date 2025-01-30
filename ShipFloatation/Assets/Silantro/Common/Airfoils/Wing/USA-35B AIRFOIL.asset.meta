@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbc42cf47e6537c43a486bc472b6fcb4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Wing/USA-35B AIRFOIL.asset
+  uploadId: 546842

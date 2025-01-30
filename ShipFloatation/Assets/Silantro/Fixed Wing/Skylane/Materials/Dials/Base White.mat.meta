@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b040e21422b98344b363128a9f31381
+timeCreated: 1575592715
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Skylane/Materials/Dials/Base White.mat
+  uploadId: 546842

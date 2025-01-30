@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8820e6d2af3e59243a0873cfa3edee98
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/Cases/20x110mm USN C.prefab
+  uploadId: 546842

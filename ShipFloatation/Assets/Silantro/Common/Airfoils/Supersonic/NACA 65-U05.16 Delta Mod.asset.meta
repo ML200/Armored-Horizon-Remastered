@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f637715411df26499a29a826eb2b952
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Supersonic/NACA 65-U05.16 Delta Mod.asset
+  uploadId: 546842

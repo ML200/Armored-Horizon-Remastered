@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 33d928956dc31254dba70d0d57f7b10f
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Effects/Hardpoints/Point.mat
+  uploadId: 546842

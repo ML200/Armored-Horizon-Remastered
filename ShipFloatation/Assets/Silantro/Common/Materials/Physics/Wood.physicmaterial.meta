@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51c6123da46fddd41b43e32544e450ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Physics/Wood.physicmaterial
+  uploadId: 546842

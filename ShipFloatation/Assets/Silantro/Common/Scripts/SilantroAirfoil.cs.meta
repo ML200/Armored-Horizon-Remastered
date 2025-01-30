@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 465fc89b7d246d04397cfc86af48ada1
+timeCreated: 1573736971
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Scripts/SilantroAirfoil.cs
+  uploadId: 546842

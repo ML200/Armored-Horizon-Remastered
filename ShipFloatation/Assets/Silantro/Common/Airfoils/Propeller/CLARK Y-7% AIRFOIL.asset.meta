@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6be6f1ce4c3d8e4cb52bc568b575c40
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Propeller/CLARK Y-7% AIRFOIL.asset
+  uploadId: 546842

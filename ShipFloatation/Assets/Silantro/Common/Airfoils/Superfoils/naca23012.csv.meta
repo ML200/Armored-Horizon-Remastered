@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f8c1696f1375484eb985dc1992428c1
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Superfoils/naca23012.csv
+  uploadId: 546842

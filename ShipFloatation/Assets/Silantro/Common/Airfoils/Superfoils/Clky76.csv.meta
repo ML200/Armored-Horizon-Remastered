@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df877e10d9e1634489cb6e8d9151abf3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Superfoils/Clky76.csv
+  uploadId: 546842

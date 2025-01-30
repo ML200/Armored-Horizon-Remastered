@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d623cf880694a0b4ca397db3c37e640e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Models/VR Controls/Materials/Lever.mat
+  uploadId: 546842

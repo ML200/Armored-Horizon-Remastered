@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e7a782da6ba1c0458f478b94f28baa5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Effects/Impact/Muzzle Flash.prefab
+  uploadId: 546842

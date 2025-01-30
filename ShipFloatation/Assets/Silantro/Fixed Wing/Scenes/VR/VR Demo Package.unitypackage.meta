@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd9d9f19f0d84374892c4f09edbff41e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scenes/VR/VR Demo Package.unitypackage
+  uploadId: 546842

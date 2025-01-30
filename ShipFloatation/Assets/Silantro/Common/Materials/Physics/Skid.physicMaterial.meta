@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8891fe31c6883744b61828a22cd87ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Physics/Skid.physicMaterial
+  uploadId: 546842

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47566a1a3ac0a03419af629a5feca7c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Effects/Impact/Ground Impact.prefab
+  uploadId: 546842

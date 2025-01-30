@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d2249781b6b8c842aca35213d3cf703
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Wing/HAS 13112.asset
+  uploadId: 546842

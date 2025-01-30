@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d53f10f7e6285a04a8d6dadbc28d1e90
+timeCreated: 1563555330
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Graphics/Resources/Target Radar Template.ai
+  uploadId: 546842

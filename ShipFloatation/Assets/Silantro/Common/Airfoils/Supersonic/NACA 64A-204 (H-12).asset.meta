@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1606475d6cf9bc040a7874804b861da0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Supersonic/NACA 64A-204 (H-12).asset
+  uploadId: 546842

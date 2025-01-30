@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ba4a3b5481e4474ca9bf7b42aee2800
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scenes/VR/README.txt
+  uploadId: 546842

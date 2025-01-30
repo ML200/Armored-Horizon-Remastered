@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67ff4639778347342b9f3d5844e90ed0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Stabilizer/NACA 0004-113.asset
+  uploadId: 546842

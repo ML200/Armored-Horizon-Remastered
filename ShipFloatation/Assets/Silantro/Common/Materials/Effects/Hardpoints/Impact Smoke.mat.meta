@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c2dedec347871844e975142b5b4f359b
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Effects/Hardpoints/Impact Smoke.mat
+  uploadId: 546842

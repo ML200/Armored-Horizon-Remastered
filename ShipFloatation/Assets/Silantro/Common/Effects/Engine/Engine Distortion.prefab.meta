@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6802b60a0fbc2b44a806e5c7ed5da753
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Effects/Engine/Engine Distortion.prefab
+  uploadId: 546842

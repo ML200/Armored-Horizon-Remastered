@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6662c60c49ae6ab4b89599d01bc716ff
+timeCreated: 1563555523
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Graphics/Resources/Airfield Icon Template.ai
+  uploadId: 546842

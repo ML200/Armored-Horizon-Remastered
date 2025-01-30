@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 401a22cea90981042ba755dd8dbb6abe
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Superfoils/sc1095.csv
+  uploadId: 546842

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c416bef25b3fc847a0eeea02ada3938
+timeCreated: 1563555523
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Graphics/Resources/Aircraft Icon Template.ai
+  uploadId: 546842

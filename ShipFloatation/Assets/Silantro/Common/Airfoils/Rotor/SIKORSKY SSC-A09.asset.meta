@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0541127fff6c79342b0fe27454cdfa14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Rotor/SIKORSKY SSC-A09.asset
+  uploadId: 546842

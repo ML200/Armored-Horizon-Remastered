@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab88ab7675c0ff346b48d2df9cb690f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Effects/Explosions/Component Explosion.prefab
+  uploadId: 546842

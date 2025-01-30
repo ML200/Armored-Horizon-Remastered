@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f9a1bdd26642d934ba68cd45ec8e18eb
+timeCreated: 1430430319
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Shaders/AdditiveTintable.shader
+  uploadId: 546842

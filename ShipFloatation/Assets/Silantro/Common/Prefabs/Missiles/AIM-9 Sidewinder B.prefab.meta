@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5bf022a9ac460f4c8e36266adfe8cd5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/Missiles/AIM-9 Sidewinder B.prefab
+  uploadId: 546842

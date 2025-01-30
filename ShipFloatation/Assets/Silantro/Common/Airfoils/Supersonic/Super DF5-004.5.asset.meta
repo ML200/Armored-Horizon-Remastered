@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 819b070cd19c1414a9df9fb25be136fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Supersonic/Super DF5-004.5.asset
+  uploadId: 546842

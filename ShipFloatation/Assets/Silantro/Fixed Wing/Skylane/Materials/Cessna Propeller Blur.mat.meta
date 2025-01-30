@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b861b8a0c6a76048afd3ddadc6783db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Skylane/Materials/Cessna Propeller Blur.mat
+  uploadId: 546842

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7ef6a775e8255384bb36b6ab73e3b181
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Shaders/GlassStainedBumpDistort.shader
+  uploadId: 546842

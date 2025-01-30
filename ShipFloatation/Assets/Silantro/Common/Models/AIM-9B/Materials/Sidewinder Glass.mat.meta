@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 94c1456dbe3fdc040acd6d5cf8a2190e
+timeCreated: 1562720304
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Models/AIM-9B/Materials/Sidewinder Glass.mat
+  uploadId: 546842

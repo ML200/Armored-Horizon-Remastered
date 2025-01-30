@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5065c31fec814f149af3fca538b5fa0a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Skylane/Materials/Cessna Set 1.mat
+  uploadId: 546842

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1602f10e7f58f35449e3767788a2c539
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Skylane/Materials/Cessna Glass.mat
+  uploadId: 546842

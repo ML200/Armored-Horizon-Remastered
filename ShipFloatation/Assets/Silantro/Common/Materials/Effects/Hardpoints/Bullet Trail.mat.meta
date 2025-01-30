@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b68a12241f852874db0270051e8723db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Effects/Hardpoints/Bullet Trail.mat
+  uploadId: 546842

@@ -713,7 +713,7 @@ PlayerSettings:
   webGLCloseOnQuit: 0
   webWasm2023: 0
   scriptingDefineSymbols:
-    Standalone: TOUCH_REACT;USING_HDRP;USING_URP;VSP_PACKAGES;VEGETATION_STUDIO_PRO
+    Standalone: SILANTRO_FIXED
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}

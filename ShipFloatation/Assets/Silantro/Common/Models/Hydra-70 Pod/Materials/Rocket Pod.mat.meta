@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3ba36b6744385094a997bfd4c6842c18
+timeCreated: 1542456142
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Models/Hydra-70 Pod/Materials/Rocket Pod.mat
+  uploadId: 546842

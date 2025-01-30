@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a48aaaf22a2658b4cb06f4c39733874d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/Rockets/R4M Orkan Pod.prefab
+  uploadId: 546842

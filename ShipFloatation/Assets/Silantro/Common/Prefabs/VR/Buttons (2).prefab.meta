@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f387b217ece7024884c85ecbc395504
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/VR/Buttons (2).prefab
+  uploadId: 546842

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e22990a5d65fa1e41ac10be34591b8b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Materials/Effects/Engine/Exhaust Distortion.mat
+  uploadId: 546842

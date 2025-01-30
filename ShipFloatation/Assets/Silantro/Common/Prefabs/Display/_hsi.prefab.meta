@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c56dca20d968a744baad1a16ecf19cf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/Display/_hsi.prefab
+  uploadId: 546842

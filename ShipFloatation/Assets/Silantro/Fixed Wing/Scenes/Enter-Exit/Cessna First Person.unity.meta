@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 088ebaf23b6cb434bac1f1b220d8a101
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Scenes/Enter-Exit/Cessna First Person.unity
+  uploadId: 546842

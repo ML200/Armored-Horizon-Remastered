@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c83a3034a97d7504e948547b9f9ad4e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Effects/Explosions/Bomb Explosion.prefab
+  uploadId: 546842

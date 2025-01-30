@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c50ac0a48fb0b9f44b2f7b5592f608a6
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Textures/Effects/Flares/Elements/Beacon.flare
+  uploadId: 546842

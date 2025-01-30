@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 507155b5fefd4934091ee314bb3ba34a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Models/VR Controls/Materials/Blue.mat
+  uploadId: 546842

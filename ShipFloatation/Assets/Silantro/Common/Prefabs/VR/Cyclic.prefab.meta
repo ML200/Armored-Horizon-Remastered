@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b75600d836b016a4e9f38150e7602329
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/VR/Cyclic.prefab
+  uploadId: 546842

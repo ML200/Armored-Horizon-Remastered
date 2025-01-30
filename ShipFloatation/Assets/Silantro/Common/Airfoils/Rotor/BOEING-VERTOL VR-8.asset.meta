@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 503571d9ef77397429ec5e1e53f5332e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Rotor/BOEING-VERTOL VR-8.asset
+  uploadId: 546842

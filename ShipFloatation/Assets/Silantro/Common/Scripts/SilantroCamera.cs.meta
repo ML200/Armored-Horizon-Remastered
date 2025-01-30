@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a1b4c30dfd4c382429a5f7c48cdb14f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Scripts/SilantroCamera.cs
+  uploadId: 546842

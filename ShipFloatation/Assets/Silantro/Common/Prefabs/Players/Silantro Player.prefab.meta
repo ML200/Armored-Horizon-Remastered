@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7ed17345af249a43a07a576e3d3e275
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Prefabs/Players/Silantro Player.prefab
+  uploadId: 546842

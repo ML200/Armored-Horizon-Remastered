@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 812670aa15e86e34e962292d301fcdb2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Fixed Wing/Prefabs/Cessna 182 Skylane.prefab
+  uploadId: 546842

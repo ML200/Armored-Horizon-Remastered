@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f4b106e748249f46aa4485bc5fe1383
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128025
+  packageName: Silantro Flight Simulator Toolkit
+  packageVersion: 3.5.15
+  assetPath: Assets/Silantro/Common/Airfoils/Superfoils/Clark-Y (c=7,6%).prefab
+  uploadId: 546842
